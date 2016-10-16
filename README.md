@@ -4,7 +4,7 @@ In this project we will make a security-IP camera based on a Raspberry Pi 3 mode
 
 
 Hardware components needed:
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 > 1 Raspberry Pi 3 model B
 > 1 Raspberry pi camera
 > 1 PIR (motion) sensor [HC-SR501]

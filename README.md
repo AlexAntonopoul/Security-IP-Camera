@@ -10,6 +10,7 @@ Hardware components needed:
 > 1 PIR (motion) sensor [HC-SR501]
 > 1 Sound sensor-microphone [KY-037]
 > 1 Breadboard (maybe)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <<setup photo>>
 

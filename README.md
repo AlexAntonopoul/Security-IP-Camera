@@ -13,7 +13,9 @@ Hardware components needed:
 - 1 Servo
 - 1 Breadboard (maybe)
 
-<<photo>>
+```
+photo
+```
 
 Whenever one of the Arduinos detects movement inside the house it will commounicate with Raspberry and the Respberry will move the servo and start the camera to record the event. While the system continues to detect movement the camera will sta on. The video will be saved into the Rasberry's SDcard, simultaneously the system will stream the recording video. After the streaming stops the system will automaticaly upload the the videos to users Dropbox.
 
